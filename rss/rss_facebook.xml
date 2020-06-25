@@ -11,7 +11,7 @@ https://github.com/gdit-for-cms/test-cms/blob/master/rss/rss_facebook.xml</title
 	<pubDate>2020-06-25T03:03:00+09:00</pubDate>
 	<author>荒川区Facebook</author>
 	<content:encoded><![CDATA[
-		<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Snake_River_%285mb%29.jpg" />
+		<img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/image_path_1Meteosat7-full-scan-3MB20200624195854.jpg" />
 	]]></content:encoded>
 </item>
 </channel></rss>
