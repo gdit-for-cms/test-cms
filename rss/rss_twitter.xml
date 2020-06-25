@@ -1,25 +1,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>111phuongphuongphuong
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数 入力可能文字数 </title>
-	<pubDate>2020-06-25T03:02:00+09:00</pubDate>
+	<title>テストテストテストテ
+ストテストテストテス
+トテストテ12テストテ
+ストテストテストテストテス
+トテストテストテストテストテストテストテストテストテストテストテストテ
+ストテストテストテストテ
+ストテストテストテストテストテ
+&lt;alert&gt;asdasd&lt;/alert&gt;
+https://github.com/gdit-for-cms/test-cms/blob/master/rss/rss_facebook.xml</title>
+	<pubDate>2020-06-25T03:03:00+09:00</pubDate>
 	<author>荒川区Twitter</author>
 	<content:encoded><![CDATA[
-		<img alt="" src="https://github.com/gdit-for-cms/test-cms/blob/master/rss/images/image_path_1Meteosat7-full-scan-3MB20200624195854.jpg" />
+		<img alt="" src="http://pub.dev28.local/rss/images/image_path_1hagiang-11-814x54120200625143703.jpg" />
 	]]></content:encoded>
 </item>
 </channel></rss>
