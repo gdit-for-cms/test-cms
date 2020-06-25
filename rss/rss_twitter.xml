@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>55555555555テストテストテストテ
-ストテストテストテス
-トテストテ12テストテ
-ストテストテストテストテス
-ストテストテストテストテ
-ストテストテストテストテストテ
+	<title>6666666666666
 &lt;alert&gt;asdasd&lt;/alert&gt;
 https://github.com/gdit-for-cms/test-cms/blob/master/rss/rss_facebook.xml</title>
 	<pubDate>2020-06-25T03:03:00+09:00</pubDate>
 	<author>荒川区Twitter</author>
 	<content:encoded><![CDATA[
-		<img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/natra.jpg" />
+	<p align="right">2020年6月8日</p>
+	<p>dsfdsf<br />
+cxvcxv<br />
+123123<br />
+324324324</p>
+	<figure><img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/natra.jpg" /><figcaption>sss</figcaption></figure>
 	]]></content:encoded>
 </item>
 </channel></rss>
