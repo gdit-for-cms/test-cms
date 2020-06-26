@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>記事は専用の入力ボックスの内容で投稿する記事は専用の入力ボックスの内容で投稿する記事は専用の入力ボックスの内容で投稿する記事は専用の入力ボックスの内容で投稿する記事は専用の入力ボックスの内容で投稿する<br />
-記事は専用の入力ボックスの内容で投稿する<br />
-記事は専用の入力ボックスの内容12345678</title>
-	<pubDate>2020-06-26T03:03:00+09:00</pubDate>
+	<title>123入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数入力可能文字数<br />
+https://www.google.com/search?q=test+rss+feed+online&amp;rlz=1C1CAFA_enJP862JP862&amp;oq=test&amp;aqs=chrome.0.69i59j69i57j69i61j69i60l2j69i65l3.2425j0j7&amp;sourceid=chrome&amp;ie=UTF-8</title>
+	<pubDate>2020-06-26T03:04:00+09:00</pubDate>
 	<author>荒川区Twitter</author>
 	<content:encoded><![CDATA[
-		<img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/image_path_1dalat-28-814x51420200626092934.jpg" />
+		<img alt="" src="http://pub.iko.city.arakawa.cms8341.jp/rss/images/image_path_1dalat-28-814x51420200626105832.jpg" />
 	]]></content:encoded>
 </item>
 </channel></rss>
