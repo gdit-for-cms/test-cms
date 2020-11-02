@@ -1,19 +1,8 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>テスト投稿記事。<br />
-Twitter。</title>
-	<pubDate>2020-06-25T10:00:00+09:00</pubDate>
-	<author>荒川区Twitter</author>
+	<title>test rss</title>
+	<pubDate>2020-11-02T02:02:00+09:00</pubDate>
+	<author>江戸川区Twitter</author>
 	<content:encoded><![CDATA[
-		<img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/image_path_10626_testimage20200626142443.jpg" />
+		<img alt="" src="http://pub.dev14.local/rss/images/image_path_1dalat-28-814x51420201102135924.jpg" />
 	]]></content:encoded>
-</item>
-</channel></rss><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>テスト投稿記事。<br />
-Twitter。</title>
-	<pubDate>2020-06-25T10:00:00+09:00</pubDate>
-	<author>荒川区Twitter</author>
-	<content:encoded><![CDATA[
-		<img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/image_path_10626_testimage20200626142443.jpg" />
-	]]></content:encoded>
-</item>
-</channel></rss>
+</item></channel></rss>
