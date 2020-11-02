@@ -1,0 +1,8 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
+	<title>test rss</title>
+	<pubDate>2020-11-02T02:02:00+09:00</pubDate>
+	<author>江戸川区Facebook</author>
+	<content:encoded><![CDATA[
+		<img alt="" src="https://github.com/gdit-for-cms/test-cms/blob/master/rss/images/image_path_1dalat-28-814x51420201102135924.jpg" />
+	]]></content:encoded>
+</item></channel></rss>
